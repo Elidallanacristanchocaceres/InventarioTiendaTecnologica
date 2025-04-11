@@ -8,7 +8,7 @@ Este proyecto implementa una base de datos para una tienda tecnológica, con fun
 - Generar reportes de productos más vendidos y ventas por cliente
 
 ## Modelo E-R de la Base de Datos
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/758947a6-3ec9-4267-9242-aa23bc3f0e88)
 
 ## Instalación en PostgreSQL
 - Requisitos
